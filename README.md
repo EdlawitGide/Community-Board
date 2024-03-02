@@ -17,12 +17,11 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Buttons or links to a related resources are on each card component
-- [X] The site is responsive for both desktop and mobile formats
+- [] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [X] List anything else that you added to improve the site's functionality!
-      Each "Click me" button makes you go to the restaurant's main website where you can view the menu, order online, or contact them.
+* [] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
