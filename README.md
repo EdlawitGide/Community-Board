@@ -1,5 +1,5 @@
 # Project-1-Community-Board
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board*
 
 Submitted by: Edlawit Gide
 
