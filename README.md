@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
       Each "Click me" button makes you go to the restaurant's main website where you can view the menu, order online, or contact them.
 
 ## Video Walkthrough
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented required features:
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with  LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
